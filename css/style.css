@@ -95,9 +95,6 @@ input.shout-btn{
   #footer p a:active {
     color: #696969;
   }
-  .footer_comma {
-    display: none;
-  }
   .footer-social a:link .footer-icon,
   .footer-social a:visited .footer-icon {
     color: #FFF;
@@ -107,6 +104,9 @@ input.shout-btn{
   .footer-social a:hover .footer-icon {
     color: #808080;
     background-color: #FFF;
+  }
+  .footer-social a:active .footer-icon {
+    color: #696969;
   }
   i.footer-icon.fab.fa-linkedin {
     margin-left: 15px;
@@ -124,10 +124,6 @@ input.shout-btn{
     }
     #input input[type="text"]{
         width: 98%;
-    }
-    /* footer */
-    .footer_comma {
-        display: inline;
     }
 }
 @media only screen and (max-width:420px) {

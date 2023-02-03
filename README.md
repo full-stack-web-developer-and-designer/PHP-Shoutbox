@@ -1,5 +1,5 @@
-# Shoutbox created with PHP, MySQL, jQuery, AJAX, HTML and CSS
-This repository contains a responsive Shoutbox built using jQuery, AJAX, PHP and MySQL. So, when the user sends a name and a message, that information appears at the top of the Shoutbox along with the time the message was sent. Also, this data is entered into the database and with the help of AJAX, it appears instantly on the page, without reloading the page. 
+# Shoutbox application
+This repository contains a dynamic responsive Shoutbox built using PHP, MySQL. jQuery, AJAX, HTML ,and CSS. So, when the user sends a name and a message, that information appears at the top of the Shoutbox along with the time the message was sent. Also, this data is entered into the database and with the help of AJAX, it appears instantly on the page, without reloading the page. 
 
 At the same time, this form has validation, and empty data cannot be sent, and with AJAX and jQuery validation plugin, the answer **"Please fill in your name and message!"** appears immediately when the user tries to send empty data. This was done with jQuery validate groups to display one message for all inputs, instead of each input separately. 
 

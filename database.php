@@ -1,6 +1,6 @@
 <?php
 // Connect to MySQL
-$conn = mysqli_connect("localhost","root","","shoutit");
+$conn = mysqli_connect("localhost","root","147asd89y","shoutit");
 mysqli_set_charset($conn,"utf8");
 // Test connection
 if(mysqli_connect_errno()){

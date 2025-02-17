@@ -1,4 +1,6 @@
-# Shoutbox application <div style="text-align: right">[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/full-stack-web-developer-and-designer/PHP-Shoutbox)</div>
+# Shoutbox application
+
+<div style="text-align: right">[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/full-stack-web-developer-and-designer/PHP-Shoutbox)</div>
 [![Shoutbox application](/project_shoutbox-1000px.jpg)](https://mirnesglamocic.com/shoutbox/index.html)
 This repository contains a dynamic responsive Shoutbox built using PHP, MySQL. jQuery, AJAX, HTML ,and CSS. So, when the user sends a name and a message, that information appears at the top of the Shoutbox along with the time the message was sent. Also, this data is entered into the database and with the help of AJAX, it appears instantly on the page, without reloading the page. 
 

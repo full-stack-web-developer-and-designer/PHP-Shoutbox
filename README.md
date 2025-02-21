@@ -12,4 +12,4 @@ PHP uses procedural mode and mysqli api to communicate with the database. In PHP
 
 To check how it looks, please click preview.
 ##
-[PREVIEW](https://mirnesglamocic.com/shoutbox/index.html)
+[PREVIEW](https://shoutbox.mirnesglamocic.com)
